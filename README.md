@@ -35,13 +35,15 @@
 
 ## 🚀 About Me
 
-> *"I'm a Web3 developer and builder working on multiple Web3 projects and builder challenges for Base."*
+> *Creating the decentralized future, one block at a time.*
 
-- 🔭 Building **[TrueScore](https://github.com/Earnwithalee7890/True-Score-Mini-app-Crypto)** - Farcaster Mini App for reputation scores
-- ⏰ Creating **[Proof of Day](https://proof-of-day.vercel.app)** - Daily check-in rewards on Base
-- 🧱 **Stacks Builder Challenge** - Deployed 75+ Clarity contracts to mainnet
-- 🌱 Exploring **Solidity, Clarity 4, Base, and Farcaster Frames**
-- 💼 Participating in **Talent Protocol Base Builder Event**
+I am a dedicated **Web3 Developer & Builder** focused on shipping high-impact applications on **Base**. I specialize in building social mini-apps and gamified on-chain experiences.
+
+- 🔭 **Innovating on [TrueScore](https://github.com/Earnwithalee7890/True-Score-Mini-app-Crypto)** — A premier Farcaster Mini App for on-chain reputation & AI.
+- ⏰ **Gamifying with [Proof of Day](https://proof-of-day.vercel.app)** — Driving user retention with daily on-chain rewards.
+- 🧱 **Scaling Stacks** — Successfully deployed **75+ Clarity contracts** to mainnet during the Stacks Builder Challenge.
+- 🌱 **Mastering the Stack** — Deep diving into **Solidity, Clarity 4, and Farcaster Frames**.
+- 💼 **Building Reputation** — Active participant in the **Talent Protocol Base Builder Event**.
 
 ---
 
