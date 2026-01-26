@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=101010" />
   </a>
   <a href="mailto:earnwithalee@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
+    <img src="https://img.shields.io/badge/Email-earnwithalee@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" />
   </a>
 </div>
 
@@ -107,16 +107,6 @@
 
 <br />
 
-<div align="center">
-  <h2>🐍 Contribution Activity</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Earnwithalee7890/Earnwithalee7890/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Earnwithalee7890/Earnwithalee7890/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Earnwithalee7890/Earnwithalee7890/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25&height=100&section=footer" width="100%" />
