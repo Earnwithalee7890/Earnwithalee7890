@@ -1,25 +1,24 @@
 <div align="center">
-  <img src="assets/header.png" alt="Ali - Blockchain Developer" width="100%" />
+  <h1>Hi 👋, I'm Ali Asghar</h1>
+  <h3>Web3 Developer | Builder | Base Enthusiast</h3>
+  <p>I'm a Web3 developer and builder working on multiple Web3 projects and builder challenges for Base.</p>
 </div>
 
 <div align="center">
-  <br />
   <a href="https://warpcast.com/aleekhoso">
     <img src="https://img.shields.io/badge/Farcaster-Follow_Me-855DCD?style=for-the-badge&logo=farcaster&logoColor=white" />
   </a>
   <a href="https://alee-asghar.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
-  <a href="mailto:earnwithalee@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://github.com/Earnwithalee7890">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
 
 <br />
 
 <div align="center">
-  <h2>🐍 Contribution Snake Game</h2>
-  <p>Available after the first GitHub Action run!</p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Earnwithalee7890/Earnwithalee7890/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Earnwithalee7890/Earnwithalee7890/output/github-contribution-grid-snake.svg">
