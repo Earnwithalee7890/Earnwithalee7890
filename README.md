@@ -96,6 +96,13 @@ I am a dedicated **Web3 Developer & Builder** focused on shipping high-impact ap
 
 ---
 
+<div align="center">
+  <h2>🧱 On-Chain Activity (3D)</h2>
+  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
+</div>
+
+<br />
+
 ## 📊 GitHub Stats
 
 <div align="center">
