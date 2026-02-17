@@ -24,12 +24,6 @@
 
 <br />
 
-<div align="center">
-  <h2>🏆 Trophies & Achievements</h2>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Earnwithalee7890&theme=bumblebee&no-frame=true&no-bg=true&margin-w=4&row=1" alt="trophy" />
-  </a>
-</div>
 
 ---
 
@@ -97,21 +91,67 @@ I am a dedicated **Web3 Developer & Builder** focused on shipping high-impact ap
 ---
 
 <div align="center">
-  <h2>🧱 On-Chain Activity (3D)</h2>
-  <img src="profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="100%" />
+  <h2>🧱 Stacks Projects</h2>
 </div>
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🔄 Stacks Swap</h3>
+      <p>A decentralized exchange (DEX) built on Stacks, enabling seamless token swaps with Bitcoin security.</p>
+      <img src="https://img.shields.io/badge/DeFi-Stacks-744CFC?style=for-the-badge&logo=stacks&logoColor=white" />
+    </td>
+    <td width="50%" align="center">
+      <h3>🔍 STX Explorer</h3>
+      <p>A comprehensive block explorer for the Stacks blockchain, tracking transactions, blocks, and contracts.</p>
+      <img src="https://img.shields.io/badge/Tool-Explorer-744CFC?style=for-the-badge&logo=stacks&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🎨 Conduit</h3>
+      <p>A premium UI kit for Stacks applications, offering a modern design system for Web3 builders.</p>
+      <img src="https://img.shields.io/badge/UI_Kit-Design-744CFC?style=for-the-badge&logo=stacks&logoColor=white" />
+    </td>
+    <td width="50%" align="center">
+      <h3>🏛️ Proof of Builder</h3>
+      <p>The core platform linking on-chain activity to builder reputation, verifying contributions on the Stacks network.</p>
+      <a href="https://bitcoin-native-stacks-aligned.vercel.app">
+        <img src="https://img.shields.io/badge/Platform-Builder-744CFC?style=for-the-badge&logo=stacks&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+<div align="center">
+<h2>🌟 Why Stacks?</h2>
+<p align="left">
+Stacks is the leading Bitcoin Layer 2, enabling smart contracts and decentralized apps to use Bitcoin as their secure base layer.
+</p>
+<p align="left">
+🔹 <b>Bitcoin Security:</b> Transactions are settled on the Bitcoin blockchain, inheriting its security and finality.<br>
+🔹 <b>Clarity Smart Contracts:</b> A decidable language that prevents many common bugs and exploits found in other smart contract languages.<br>
+🔹 <b>Proof of Transfer (PoX):</b> A unique consensus mechanism where miners pledge BTC to mint STX and secure the network.<br>
+🔹 <b>Bitcoin DeFi:</b> Unlocks the $1T+ Bitcoin capital for decentralized finance without wrapping or bridging.
+</p>
+</div>
+
+---
+
 
 <br />
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Earnwithalee7890&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Earnwithalee7890&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Earnwithalee7890&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" width="48%" />
 </div>
 <br />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Earnwithalee7890&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Earnwithalee7890&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=10" alt="Top Languages" width="60%" />
 </div>
 
 <br />
