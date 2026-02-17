@@ -31,7 +31,13 @@
 
 > *Creating the decentralized future, one block at a time.*
 
-I am a dedicated **Web3 Developer & Builder** focused on shipping high-impact applications on **Base**. I specialize in building social mini-apps and gamified on-chain experiences.
+I am a dedicated **Web3 Developer & Builder** focused on shipping high-impact applications on **Base** and **Stacks**. I specialize in building social mini-apps, gamified on-chain experiences, and robust smart contract architectures.
+
+### 🧱 Why Stacks & Clarity?
+My expertise lies in the **Stacks ecosystem**, leveraging the **Clarity** smart contract language to build predictable, secure, and decidable contracts.
+- **75+ Contracts Deployed**: From DeFi protocols to NFT marketplaces, I've architected and deployed over 75 unique Clarity contracts.
+- **Bitcoin Security**: Building applications that inherit the security of Bitcoin through Proof-of-Transfer (PoX).
+- **Decidability**: Utilizing Clarity's non-Turing complete nature to ensure code behaves exactly as written, eliminating entire classes of bugs.
 
 - 🔭 **Innovating on [TrueScore](https://github.com/Earnwithalee7890/True-Score-Mini-app-Crypto)** — A premier Farcaster Mini App for on-chain reputation & AI.
 - ⏰ **Gamifying with [Proof of Day](https://proof-of-day.vercel.app)** — Driving user retention with daily on-chain rewards.
@@ -143,20 +149,48 @@ Stacks is the leading Bitcoin Layer 2, enabling smart contracts and decentralize
 
 <br />
 
-## 📊 GitHub Stats
+---
+
+## 🛠️ The Builders Architect: 20+ Clarity Concepts & Contracts
+
+<details>
+<summary>Click to view my deployed contracts and concepts</summary>
+
+| # | Project / Contract Concept | Description |
+|---|---|---|
+| 1 | **Bitcoin DAO Treasury** | Multi-sig treasury management secured by Bitcoin stacks. |
+| 2 | **NFT Staking Vault** | Time-locked NFT staking mechanism with yield generation. |
+| 3 | **Decentralized Identity (DID)** | On-chain identity verification linked to BNS names. |
+| 4 | **Sip-010 Token Launchpad** | Factory contract for deploying standard fungible tokens. |
+| 5 | **Predictive Market Oracle** | Oracle integration for prediction markets on Stacks. |
+| 6 | **Flash Loan Vault** | Uncollateralized lending protocol for arbitrage strategies. |
+| 7 | **Gaming Leaderboard** | On-chain scoring system for play-to-earn games. |
+| 8 | **Supply Chain Tracker** | Provenance tracking for physical goods via NFTs. |
+| 9 | **Social Graph Protocol** | Decentralized social connections stored on-chain. |
+| 10 | **Charity Donation Router** | Transparent fund routing for charitable causes. |
+| 11 | **Music Royalty Splitter** | Automated revenue sharing for music NFTs. |
+| 12 | **Real Estate Fractionalizer** | Tokenization logic for real-world assets. |
+| 13 | **Voting Escrow (ve)** | Governance voting power based on lock duration. |
+| 14 | **Subscription Service** | Recurring payment logic using SIP-010 tokens. |
+| 15 | **Cross-Chain Bridge Mock** | Logic for handling cross-chain asset transfers. |
+| 16 | **Yield Aggregator** | Strategies for maximizing yield across DeFi protocols. |
+| 17 | **Insurance Mutual** | Peer-to-peer insurance pool logic. |
+| 18 | **Developer Grant Stream** | Streaming payments for grant recipients. |
+| 19 | **Carbon Credit Registry** | Tracking and trading of carbon credits. |
+| 20 | **Educational Credentials** | Verifiable credentials for course completion certificates. |
+
+</details>
+
+<br />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Earnwithalee7890&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Earnwithalee7890&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Earnwithalee7890&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="60%" />
 </div>
 <br />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Earnwithalee7890&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=10" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Earnwithalee7890&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Top Languages" width="60%" />
 </div>
-
 <br />
-
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,25&height=100&section=footer" width="100%" />
 </div>
