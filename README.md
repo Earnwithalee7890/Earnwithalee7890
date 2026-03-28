@@ -57,6 +57,27 @@ My expertise lies in the **Stacks ecosystem**, leveraging the **Clarity** smart 
 
 ---
 
+<div align="center">
+  <h2>📦 Official NPM SDK</h2>
+</div>
+
+<table>
+  <tr>
+    <td width="100%" align="center">
+      <h3>🚀 @earnwithalee/stacksrank-sdk</h3>
+      <p>StacksRank is a comprehensive decentralized ranking and analytics toolkit built natively for the Stacks ecosystem. The core logic has been extracted into this NPM SDK, enabling seamless integration of user ranking, real-time analytics, and decentralized identity resolution into any Stacks Web3 application. Designed with strict security patterns, it serves as an open-source reference architecture for building advanced dApps on Bitcoin via Stacks.</p>
+      <a href="https://github.com/Earnwithalee7890/stx-daily-check-in-hiro">
+        <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <a href="https://www.npmjs.com/package/@earnwithalee/stacksrank-sdk">
+        <img src="https://img.shields.io/npm/v/@earnwithalee/stacksrank-sdk.svg?style=for-the-badge&logo=npm" alt="npm version" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🔥 Featured Projects
 
 <table>
